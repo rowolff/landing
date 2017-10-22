@@ -1,0 +1,22 @@
+{
+  "name": "landing",
+  "description": "Landing page for Robert Wolff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowolff/landing.git"
+  },
+  "keywords": [
+    "landing"
+  ],
+  "author": "Robert Wolff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowolff/landing/issues"
+  },
+  "homepage": "https://github.com/rowolff/landing#readme"
+}
