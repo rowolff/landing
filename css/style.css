@@ -7,6 +7,9 @@ div {
 }
 
 /* DEBUGGING END */
+body {
+	font-family: 'Quicksand', sans-serif;
+}
 
 i {
 	color: #63A46C;
@@ -26,7 +29,6 @@ i:hover {
 }
 
 .container {
-	font-family: 'Quicksand', sans-serif;
 	margin-top: 0px;
 	margin-left: auto;
     margin-right: auto;
