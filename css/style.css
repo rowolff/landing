@@ -12,20 +12,20 @@ body {
 }
 
 i {
-	color: #63A46C;
+	color: #2d728f;
 }
 
 i:hover {
-	color: #63D471;
+	color: #3b8ea5;
 }
 
 .btn-primary {
-	background-color: #63A46C;
-	border-color: #63A46C;
+	background-color: #2d728f;
+	border-color: #2d728f;
 }
 
 .btn-primary:hover {
-	background-color: #63D471;
+	background-color: #3b8ea5;
 }
 
 .container {
@@ -41,13 +41,13 @@ i:hover {
 
 .page-header {
 	color: #FFFFFF;
-	background-color: #233329;
+	background-color: #2d728f;
 	border-radius: 10px;
 }
 
 .footer {
 	color: #FFFFFF;
-	background-color: #6A7152;
+	background-color: #2d728f;
 	text-align: center;
 	position: fixed;
 	bottom: 0px;
