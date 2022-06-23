@@ -20,12 +20,13 @@ i:hover {
 }
 
 .btn-primary {
-	background-color: #2d728f;
-	border-color: #2d728f;
+	background-color: #3b8ea5;
+	border-color: #3b8ea5;
 }
 
 .btn-primary:hover {
-	background-color: #3b8ea5;
+	background-color: #f5ee9e;
+	border-color: #f5ee9e;
 }
 
 .container {
